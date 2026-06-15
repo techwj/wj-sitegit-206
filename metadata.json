@@ -1,0 +1,70 @@
+{
+  "siteId": "digital-nomad-network-solutions",
+  "generatedAt": "2026-06-12T16:23:53.601871",
+  "categories": [
+    "beginner-digital-nomad-network-solutions",
+    "advanced-digital-nomad-network-solutions",
+    "tips-digital-nomad-network-solutions",
+    "history-digital-nomad-network-solutions",
+    "trending-digital-nomad-network-solutions",
+    "tutorials-digital-nomad-network-solutions"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-digital-nomad-network-solutions",
+      "category_name": "Beginner Digital Nomad Network Solutions"
+    },
+    {
+      "category_slug": "advanced-digital-nomad-network-solutions",
+      "category_name": "Advanced Digital Nomad Network Solutions"
+    },
+    {
+      "category_slug": "tips-digital-nomad-network-solutions",
+      "category_name": "Digital Nomad Network Solutions Tips"
+    },
+    {
+      "category_slug": "history-digital-nomad-network-solutions",
+      "category_name": "Digital Nomad Network Solutions History"
+    },
+    {
+      "category_slug": "trending-digital-nomad-network-solutions",
+      "category_name": "Trending Digital Nomad Network Solutions"
+    },
+    {
+      "category_slug": "tutorials-digital-nomad-network-solutions",
+      "category_name": "Digital Nomad Network Solutions Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "digital-nomad-network-solutions",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "name": "Roboto",
+      "family": "'Roboto', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');"
+    },
+    "layout": "sidebar-left",
+    "border_radius": "8px",
+    "box_shadow": "none",
+    "article_card_style": "list",
+    "header_style": "sticky",
+    "footer_style": "standard",
+    "modules": [
+      "recent-comments",
+      "social-links",
+      "popular-tags",
+      "trending-articles"
+    ],
+    "site_title": "Digital Nomad Network Solutions Central",
+    "articles_per_row": 1
+  }
+}
